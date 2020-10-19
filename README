@@ -1,0 +1,6 @@
+NQueens solver and backtracking visualization
+
+
+How to run: Run make to create NQueens.jar, run "java -jar NQueens.jar <input file> <output file>" 
+to get solution to the input file printed on the output file
+
