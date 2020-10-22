@@ -311,7 +311,7 @@ public class NQueens {
 		for (int i = 0; i < queens.length; i++) {
 			for (int j = 0; j < queens.length; j++) {
 				if (queens[i][j] != "X") {
-					queens[i][j] = " ";
+					queens[i][j] = "_";
 				}
 			}
 		}
@@ -321,6 +321,7 @@ public class NQueens {
 				System.out.print(queens[i][j] + " ");
 			}
 			System.out.println();
+			
 		}
  
 	}
