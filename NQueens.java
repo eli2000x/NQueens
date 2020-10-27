@@ -323,7 +323,10 @@ public class NQueens {
 			System.out.println();
 			
 		}
- 
+
+		System.out.println();
+		System.out.println();
+		System.out.println();
 	}
 	
 }
